@@ -124,7 +124,7 @@ section h2 {
 }
 
 #mainNav .navbar-nav li.nav-item a.nav-link:hover {
-  color: #18BC9C;
+  color: #E58F14;
 }
 
 #mainNav .navbar-nav li.nav-item a.nav-link:active, #mainNav .navbar-nav li.nav-item a.nav-link:focus {
@@ -157,11 +157,11 @@ section h2 {
   }
   #mainNav .navbar-nav > li.nav-item > a.nav-link.active {
     color: #fff;
-    background: #18BC9C;
+    background: #E58F14;
   }
   #mainNav .navbar-nav > li.nav-item > a.nav-link.active:active, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:focus, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:hover {
     color: #fff;
-    background: #18BC9C;
+    background: #E58F14;
   }
   #mainNav.navbar-shrink {
     padding-top: 0.5rem;
@@ -203,6 +203,7 @@ header.masthead h2 {
 
 .portfolio {
   margin-bottom: -15px;
+  background-color: #AA9028
 }
 
 .portfolio .portfolio-item {
@@ -327,16 +328,16 @@ form .row:first-child .floating-label-form-group {
 .footer {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-color: #2C3E50;
+  background-color: #4E3D25;
   color: #fff;
 }
 
 .copyright {
-  background-color: #1a252f;
+  background-color: #4E3D25;
 }
 
 a {
-  color: #18BC9C;
+  color: #E58F14;
 }
 
 a:focus, a:hover, a:active {
@@ -345,14 +346,15 @@ a:focus, a:hover, a:active {
 
 .btn {
   border-width: 2px;
+  background-color:#E58F14
 }
 
 .bg-primary {
-  background-color: #18BC9C !important;
+  background-color:#E58F14 !important;
 }
 
 .bg-secondary {
-  background-color: #2C3E50 !important;
+  background-color: #AD3C24 !important;
 }
 
 .text-primary {
@@ -364,13 +366,13 @@ a:focus, a:hover, a:active {
 }
 
 .btn-primary {
-  background-color: #18BC9C;
-  border-color: #18BC9C;
+  background-color: #E58F14;
+  border-color: #E58F14;
 }
 
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
-  background-color: #128f76;
-  border-color: #128f76;
+  background-color: #E58F14;
+  border-color: #E58F14;
 }
 
 .btn-secondary {
