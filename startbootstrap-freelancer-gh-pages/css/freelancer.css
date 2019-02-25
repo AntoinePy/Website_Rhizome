@@ -1,9 +1,29 @@
 /*!
- * Start Bootstrap - Freelancer v5.0.2 (https://startbootstrap.com/template-overviews/freelancer)
- * Copyright 2013-2019 Start Bootstrap
- * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-freelancer/blob/master/LICENSE)
- */
+Palette :
+Rouge foncé :
+	#632410
+	R99 V36 B16
 
+Doré :
+	#806D35
+	R128 V109 B53
+
+Vert :
+	#1C341F
+	R28 V52 B31
+
+Beige :
+	#FCF2A4
+	R252 V242 B164
+
+Brun foncé :
+	#FCF2A4
+	R43 V35 B35
+
+Brun clair :
+	#C59F75
+	R197 V159 B117
+ */
 body {
   font-family: 'Lato';
 }
@@ -124,7 +144,7 @@ section h2 {
 }
 
 #mainNav .navbar-nav li.nav-item a.nav-link:hover {
-  color: #E58F14;
+  color:	#632410;
 }
 
 #mainNav .navbar-nav li.nav-item a.nav-link:active, #mainNav .navbar-nav li.nav-item a.nav-link:focus {
@@ -157,11 +177,13 @@ section h2 {
   }
   #mainNav .navbar-nav > li.nav-item > a.nav-link.active {
     color: #fff;
-    background: #E58F14;
+    background:	#632410
+    ;
   }
   #mainNav .navbar-nav > li.nav-item > a.nav-link.active:active, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:focus, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:hover {
     color: #fff;
-    background: #E58F14;
+    background: 	#632410
+    ;
   }
   #mainNav.navbar-shrink {
     padding-top: 0.5rem;
@@ -354,7 +376,7 @@ a:focus, a:hover, a:active {
 }
 
 .bg-secondary {
-  background-color: #AD3C24 !important;
+  background-color: #632410 !important;
 }
 
 .text-primary {
