@@ -24,7 +24,17 @@ Brun clair :
 	#C59F75
 	R197 V159 B117
  */
+
+@font-face {
+    font-family: "fontText";
+    src: url('../fonts/Roboto-Regular.ttf');
+}
+@font-face {
+    font-family: "fontTitre";
+    src: url('../fonts/Zcool.ttf');
+}
 body {
+<<<<<<< Updated upstream
   font-family: 'Lato';
   text-align: justify;
 }
@@ -35,6 +45,9 @@ body {
 
 .darkFont {
   color: #2C2424;
+=======
+  font-family: 'fontText';
+>>>>>>> Stashed changes
 }
 
 h1,
@@ -44,7 +57,7 @@ h4,
 h5,
 h6 {
   font-weight: 700;
-  font-family: 'Montserrat';
+  font-family: 'fontTitre';
 }
 
 hr.star-light,
