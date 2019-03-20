@@ -34,7 +34,6 @@ Brun clair :
     src: url('../fonts/Zcool.ttf');
 }
 body {
-<<<<<<< Updated upstream
   font-family: 'Lato';
   text-align: justify;
 }
@@ -44,10 +43,7 @@ body {
 }
 
 .darkFont {
-  color: #2C2424;
-=======
-  font-family: 'fontText';
->>>>>>> Stashed changes
+  color:#2E2D2D;
 }
 
 h1,
@@ -86,7 +82,7 @@ hr.star-dark:after {
 }
 
 #leJeu {
-  background-color: #2C2424;
+  background-color: #2E2D2D;
 }
 
 hr.star-light {
@@ -203,12 +199,12 @@ section h2 {
   }
   #mainNav .navbar-nav > li.nav-item > a.nav-link.active {
     color: #fff;
-    background:	#2C2424
+    background:	#2E2D2D;
     ;
   }
   #mainNav .navbar-nav > li.nav-item > a.nav-link.active:active, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:focus, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:hover {
     color: #fff;
-    background: #2C2424
+    background: #2E2D2D;
     ;
   }
   #mainNav.navbar-shrink {
@@ -251,7 +247,7 @@ header.masthead h2 {
 
 .portfolio {
   margin-bottom: -15px;
-  background-color: #2C2424
+  background-color: #2E2D2D;
 }
 
 .portfolio .portfolio-item {
@@ -376,12 +372,12 @@ form .row:first-child .floating-label-form-group {
 .footer {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-color: #2C2424;
+  background-color: #2E2D2D;
   color: #fff;
 }
 
 .copyright {
-  background-color: #2C2424;
+  background-color: #2E2D2D;
 }
 
 a {
@@ -402,7 +398,7 @@ a:focus, a:hover, a:active {
 }
 
 .bg-secondary {
-  background-color: #2C2424 !important;
+  background-color: #2E2D2D !important;
 }
 
 .text-primary {
