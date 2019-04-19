@@ -26,15 +26,15 @@ Brun clair :
  */
 
 @font-face {
-    font-family: "fontText";
-    src: url('../fonts/Roboto-Regular.ttf');
+  font-family: "fontText";
+  src: url('../fonts/Merriweather-Light.ttf');
 }
 @font-face {
-    font-family: "fontTitre";
-    src: url('../fonts/Zcool.ttf');
+  font-family: "fontTitre";
+  src: url('../fonts/Merriweather-Light.ttf');
 }
 body {
-  font-family: 'Lato';
+  font-family: 'fontText';
   text-align: justify;
 }
 
@@ -53,7 +53,7 @@ h4,
 h5,
 h6 {
   font-weight: 700;
-  font-family: 'fontTitre';
+  font-family: 'fontText';
 }
 
 hr.star-light,
@@ -148,8 +148,8 @@ section h2 {
 #mainNav {
   padding-top: 1rem;
   padding-bottom: 1rem;
-  font-weight: 700;
-  font-family: 'Montserrat';
+  font-weight: 600;
+  font-family: 'fontText';
 }
 
 #mainNav .navbar-brand {
@@ -200,12 +200,12 @@ section h2 {
   #mainNav .navbar-nav > li.nav-item > a.nav-link.active {
     color: #fff;
     background:	#2E2D2D;
-    ;
+  ;
   }
   #mainNav .navbar-nav > li.nav-item > a.nav-link.active:active, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:focus, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:hover {
     color: #fff;
     background: #2E2D2D;
-    ;
+  ;
   }
   #mainNav.navbar-shrink {
     padding-top: 0.5rem;
