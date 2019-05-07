@@ -46,6 +46,14 @@ body {
   color:#2E2D2D;
 }
 
+p.darkFont{
+  font-size: 20px;
+}
+
+p.lead{
+  font-size: 20px;
+}
+
 h1,
 h2,
 h3,
