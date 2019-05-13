@@ -438,3 +438,9 @@ a:focus, a:hover, a:active {
   background-color: #1a252f;
   border-color: #1a252f;
 }
+
+.center_video {
+	margin-left: auto;
+    margin-right: auto;
+    display: block
+}
