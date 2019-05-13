@@ -256,6 +256,8 @@ header.masthead h2 {
 .portfolio {
   margin-bottom: -15px;
   background-color: #2E2D2D;
+  padding-top: 48px;
+  padding-bottom: 48px;
 }
 
 .portfolio .portfolio-item {
